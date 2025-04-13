@@ -1,7 +1,7 @@
 # 🧮 Math Solver - Calcolatore per Cilindri
 
 ![Stato del Progetto](https://img.shields.io/badge/Stato-Completato%20✅-brightgreen) 
-[![Demo Online](https://img.shields.io/badge/Demo%20Live-Visualizza%20qui%20🔗-blue)](https://mathsolver.github.io)
+[![Demo Online](https://img.shields.io/badge/Demo%20Live-Visualizza%20qui%20🔗-blue)]([https://mathsolver.github.io](https://emilbenvenuto.github.io/mathsolver))
 
 Un'applicazione web intuitiva per il calcolo delle proprietà geometriche dei cilindri, sviluppata con tecnologie pure del web.
 
@@ -21,7 +21,7 @@ Apri index.html con il tuo browser preferito
 
 ## 🖥 Demo Online
 Visita la demo live all'indirizzo:  
-[https://mathsolver.github.io](https://mathsolver.github.io)
+[https://emilbenvenuto.github.io/mathsolver](https://emilbenvenuto.github.io/mathsolver)
 
 ## 🛠 Utilizzo del Calcolatore
 1. **Inserimento Dati**  
