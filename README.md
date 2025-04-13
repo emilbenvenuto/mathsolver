@@ -1,7 +1,6 @@
 # 🧮 Math Solver - Calcolatore per Cilindri
 
 [![Stato](https://img.shields.io/badge/Stato-Attivo-brightgreen)](https://github.com/emilbenvenuto/mathsolver) 
-[![Demo](https://img.shields.io/badge/Live_Demo-Visualizza_qui-blue)](https://emilbenvenuto.github.io/mathsolver)
 
 Un semplice tool web per calcolare le proprietà geometriche dei cilindri.
 
