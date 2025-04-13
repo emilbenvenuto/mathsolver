@@ -5,6 +5,12 @@
 Un semplice tool web per calcolare le proprietà geometriche dei cilindri.
 
 ## Come Avviare
+```
+git clone https://github.com/emilbenvenuto/mathsolver.git
+cd mathsolver
+```
+
+*Apri index.html con un broswer*
 
 ## Demo Online
 [![Demo](https://img.shields.io/badge/Live_Demo-Visualizza_qui-blue)](https://emilbenvenuto.github.io/mathsolver)
