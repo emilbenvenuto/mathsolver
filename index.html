@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Math Solver</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <div class="header">
+      
+      <h1 class="titolo">Math Solver</h1>
+
+      <h1 class="figura">Cilindro</h1>
+    
+    </div>
+
+
+    <div id="div.dati">
+      <h2 class="subtitolo">Dati</h2>
+
+      
+      <input class="input-dati" type="number" placeholder="Raggio di base" id="R">
+
+      <input class="input-dati" type="number" placeholder="Altezza" id="H">
+
+      <input class="input-dati" type="number" placeholder="Circonferenza" id="C">
+  
+      <input class="input-dati" type="number" placeholder="Area di base" id="AB">
+  
+      <input class="input-dati" type="number" placeholder="Area laterale" id="AL">
+  
+      <input class="input-dati" type="number" placeholder="Area totale" id="AT">
+
+      <input class="input-dati" type="number" placeholder="Volume" id="V">
+
+      <button class="pulsante-azione" onclick="calcola()">Calcola</button>
+    </div>
+  
+    <div id="div.risultato" style="display: none;">
+      <h2 class="subtitolo">Risultato</h2>
+
+      <table id="tabella-cilindro" class="risultato">
+        <tr>
+          <td>Raggio di base</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Altezza</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Circonferenza</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Area di base</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Area laterale</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Area totale</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Volume</td>
+          <td></td>
+        </tr>
+      </table>
+
+      <button class="pulsante-azione" onclick="riavvia()">Riavvia</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
