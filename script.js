@@ -319,7 +319,7 @@ function calcola() {
    } 
  
    else {
-    alert("Errore! Assicurati di aver completato solo due campi validi, il resto viene calcolato automaticamente. Per ulteriori informazioni consulta la sezione guida.");
+    alert("Errore! Assicurati di aver completato solo due campi validi, il resto viene calcolato automaticamente. Per ulteriori informazioni consulta https://github.com/emilbenvenuto/mathsolver.");
     riavvia()
    }
 }
