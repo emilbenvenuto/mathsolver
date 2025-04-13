@@ -8,8 +8,7 @@ Un semplice tool web per calcolare le proprietà geometriche dei cilindri.
 ## Come Avviare
 
 ## Demo Online
-Disponibile all'indirizzo:  
-[https://emilbenvenuto.github.io/mathsolver](https://emilbenvenuto.github.io/mathsolver)
+[![Demo](https://img.shields.io/badge/Live_Demo-Visualizza_qui-blue)](https://emilbenvenuto.github.io/mathsolver)
 
 ## Funzionalità
 - Calcola 7 parametri partendo da 2 valori inseriti
